@@ -6,6 +6,15 @@
         {
             "type": "patchouli:text",
             "text": "The $(l:Skeleton$) is a common monster that spawns in dark places in the $(l:Overworld$), including the surface at night. It attacks players on sight by keeping its distance and firing with a $(l:Bow$). It burns when exposed to sunlight.\n\nA $(l:Skeleton$) may spawn wearing armor, making it tougher and protecting it from sunlight if it wears a helmet."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:skeleton{HandItems:[{Count:1,id:'minecraft:bow'},{}]}",
+            "text": "Health: 20\nDamage: 1-5"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Skeletons drop $(l:Bones$) on death. They can be used to tame $(l:Wolves$) or to make $(l:Bone Meal$) to fertilize plants."
         }
     ]
 }
