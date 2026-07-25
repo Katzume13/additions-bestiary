@@ -1,0 +1,11 @@
+{
+    "name": "Skeleton",
+    "icon": "minecraft:skeleton_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(l:Skeleton$) is a common monster that spawns in dark places in the $(l:Overworld$), including the surface at night. It attacks players on sight by keeping its distance and firing with a $(l:Bow$). It burns when exposed to sunlight.\n\nA $(l:Skeleton$) may spawn wearing armor, making it tougher and protecting it from sunlight if it wears a helmet."
+        }
+    ]
+}
