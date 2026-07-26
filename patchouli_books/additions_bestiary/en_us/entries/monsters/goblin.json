@@ -5,16 +5,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "The Goblin is a mischievous creature found in dark forests and caves. These small green beings are known for their cunning nature and tendency to hoard treasures. Goblins attack in groups and are quick and agile, making them dangerous opponents despite their small size.\n\nThey are commonly found wearing tattered clothing and carrying stolen goods."
+            "text": "$(2)ENGLISH:$() The $(c)Goblin$() is a mischievous $(4)creature$() found in dark forests and caves. These small beings are known for their cunning nature and love of $(6)treasures$(). Goblins attack in groups and are quick and agile, making them $(4)dangerous$() despite their small size.\n\n$(2)ESPAÑOL:$() El $(c)Duende$() es una criatura astuta encontrada en bosques oscuros y cuevas. Estos pequeños seres son conocidos por su naturaleza pícara y amor por los $(6)tesoros$(). Los Duendes atacan en grupos y son rápidos y ágiles, haciéndolos $(4)peligrosos$() a pesar de su pequeño tamaño.\n\n$()$(l)$(4)Health$(): $c12$() | $(l)$(4)Damage$(): $c3-5"
         },
         {
             "type": "entity",
-            "entity": "new_fantasy_additions:goblin",
-            "text": "Health: 12\nAttack Damage: 3-5\nBehavior: Hostile, Nocturnal"
-        },
-        {
-            "type": "text",
-            "text": "Goblins drop Emeralds and various treasures upon death. Some say they guard hidden vaults filled with riches deep underground."
+            "entity": "new_fantasy_additions:goblin"
         }
     ]
 }
