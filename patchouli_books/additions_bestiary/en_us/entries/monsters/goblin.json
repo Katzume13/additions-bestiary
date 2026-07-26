@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(c)Goblin$() is a mischievous $(4)creature$() found in dark forests and caves. These small beings are known for their cunning nature and love of $(6)treasures$(). Goblins attack in groups and are quick and agile, making them $(4)dangerous$() despite their small size.\n\n$()$(l)$(4)Health$(): $c12$() | $(l)$(4)Damage$(): $c3-5"
+            "text": "The $(c)Goblin$() is a mischievous $(4)creature$() found in dark forests and caves. These small beings are known for their cunning nature and love of $(6)treasures$(). Goblins attack in groups and are quick and agile, making them $(4)dangerous$() despite their small size. $()$(l)$(4)Health$(): $c12$() | $(l)$(4)Damage$(): $c3-5"
         },
         {
             "type": "entity",
