@@ -1,0 +1,20 @@
+{
+    "name": "Goblin",
+    "icon": "minecraft:zombie_spawn_egg",
+    "category": "monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Goblin is a mischievous creature found in dark forests and caves. These small green beings are known for their cunning nature and tendency to hoard treasures. Goblins attack in groups and are quick and agile, making them dangerous opponents despite their small size.\n\nThey are commonly found wearing tattered clothing and carrying stolen goods."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:zombie{IsBaby:1b,CustomName:'{\"text\":\"Goblin\"}'}",
+            "text": "Health: 15\nAttack Damage: 2-4\nBehavior: Hostile"
+        },
+        {
+            "type": "text",
+            "text": "Goblins drop Emeralds and various treasures upon death. Some say they guard hidden vaults filled with riches deep underground."
+        }
+    ]
+}
