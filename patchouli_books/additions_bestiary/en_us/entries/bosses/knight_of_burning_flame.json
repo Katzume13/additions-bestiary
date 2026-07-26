@@ -1,0 +1,15 @@
+{
+    "name": "Knight of Burning Flame",
+    "icon": "minecraft:netherite_sword",
+    "category": "bosses",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Knight of Burning Flame$() is a $(4)legendary boss$() found in the depths of the $(6)Nether$(). This fearsome warrior is shrouded in $(6)flames$() and wields immense power. Challenging this boss requires careful preparation and strategy.\n\n$()$(l)$(4)Health$(): $c100$() | $(l)$(4)Damage$(): $c8-15"
+        },
+        {
+            "type": "entity",
+            "entity": "daflame_knight"
+        }
+    ]
+}
