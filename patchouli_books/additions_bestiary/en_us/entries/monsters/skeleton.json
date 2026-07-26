@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "The $(c)Skeleton$() is a common $(4)monster$() that spawns in dark places in the Overworld. It attacks players on sight by keeping distance and firing with a $(4)Bow$(). It burns when exposed to sunlight. A Skeleton may spawn wearing armor, making it tougher.\n\n$()$(l)$(4)Health$(): $c20$() | $(l)$(4)Damage$(): $c1-5"
+            "text": "The $(c)Skeleton$() is a common $(4)monster$() that spawns in dark places in the Overworld. It attacks players on sight by keeping distance and firing with a $(4)Bow$(). It burns when exposed to sunlight. A Skeleton may spawn wearing armor, making it tougher. $()$(l)$(4)Health$(): $c20$() | $(l)$(4)Damage$(): $c1-5"
         },
         {
             "type": "entity",
