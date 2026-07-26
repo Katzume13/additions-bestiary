@@ -1,7 +1,11 @@
 {
     "name": "Additions Bestiary",
     "landing_text": "Welcome to the Additions Bestiary",
+    "landing_page": "patchouli:additions_bestiary/landing",
     "version": 1,
+    "author": "Katzume13",
     "creative_tab": "minecraft:tools_and_utilities",
-    "use_resource_pack": false
+    "use_resource_pack": false,
+    "show_progress": true,
+    "item_name": "patchouli:patchouli_guide"
 }
