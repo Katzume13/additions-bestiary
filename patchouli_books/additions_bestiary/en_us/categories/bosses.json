@@ -1,0 +1,8 @@
+{
+    "name": "Bosses",
+    "description": "Powerful enemies that pose a significant threat",
+    "icon": "minecraft:netherite_sword",
+    "entries": [
+        "additions_bestiary:knight_of_burning_flame"
+    ]
+}
